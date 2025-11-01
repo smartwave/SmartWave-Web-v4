@@ -47,9 +47,7 @@ feature_row3:
     icon: "fas fa-handshake"
 ---
 
-{% include feature_row type="center" %}
-
-{% capture md %}
+{% include feature_row %}
 
 ## Choose a Partner that Can Help You Execute
 {: .text-center}
@@ -57,19 +55,13 @@ feature_row3:
 We don't stop at planning - we implement transformation for technology, operations and compliance that bridge **planning and results** — providing **strategic advice** to chart the path, and **fractional leadership** to execute and deliver transformation that leads to measurable outcomes. We partner with our customers and partners to align **strategy, systems, technology, compliance and leadership** that optimizes performance and scales with purpose to ensure your business' reslience.
 {: .text-center}
 
-{% endcapture $%}
-
-{% capture md %}
-
 ## Achieve Measurable Impact
 {: .text-center}
 
 We acheive real results from hypergrowth companies who chose SmartWave for technology transformation.
 {: .text-center}
 
-{% include feature_row id="feature_row2" type="center" %}
-
-{% endcapture %}
+{% include feature_row id="feature_row2" %}
 
 <div class="notice--success" markdown="1">
 **The math is simple:** Every month of inefficient operations costs you 3-6 months on your path to profitability. The average SmartWave engagement pays for itself in the first 90 days and delivers 2-3x ROI within 18 months.
@@ -88,7 +80,6 @@ We acheive real results from hypergrowth companies who chose SmartWave for techn
 **Industry Experience:** B2B SaaS, Cybersecurty, Legal, Finance, Real Estate, Sustainability, Professional Services
 **Domains:** Business Operations, Technology, Data, AI, Security, Compliance, Finance Operations, Revenue Operations, Customer Operations, Strategic Programs
 **Focus:** Cost Management • Profitability • Ability to Scale • Operational Excellence • Business Transformation • Security • Governance • Strategic Accountability Framework
-{: .text-center}
 
 ---
 
@@ -148,8 +139,6 @@ We acheive real results from hypergrowth companies who chose SmartWave for techn
   </div>
 </div>
 
----
-
 <div class="notice--warning" markdown="1">
 {% capture md %}
 
@@ -169,7 +158,6 @@ Every hypergrowth company hits these inflection points. The question isn't if yo
 {{ md | markdownify }}
 </div>
 
----
 {% capture md %}
 
 ## Start Your Transformation Today
