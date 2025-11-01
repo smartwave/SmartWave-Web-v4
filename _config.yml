@@ -19,15 +19,15 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "SmartWave"
 title_separator          : " - "
-subtitle                 : "Fractional CIO/CTO/CISO and Consulting"
+subtitle                 : "Helping good companies grow wisely"
 name                     : "SmartWave"
-description              : "Fractional CIO/CTO/CISO for growing, scalaing or optimizing companies."
+description              : "Fractional CIO/CTO/CISO for growing, scaling or optimizing companies."
 url                      : "https://smartwave.biz"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/smartwave-logo.png"
-masthead_title           : ""
+masthead_title           : "masthead"
 breadcrumbs              : true
 words_per_minute         : 200
 enable_copy_code_button  : false
@@ -67,9 +67,9 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
+  hide                   : true # true, false (default)
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
 search_provider          : # lunr (default), algolia, google
 lunr:
   search_within_pages    : # true, false (default)
@@ -99,15 +99,14 @@ og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type                   : Organization # Person or Organization (defaults to Person)
+  name                   : SmartWave # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
 # Analytics
 # Google Tag Manager
 gtm:
   container_id: "GTM-KPXMFDG6"  # replace with your GTM ID
-
 
 analytics:
   provider               : "google-gtag"
@@ -118,8 +117,8 @@ analytics:
 # Site Author
 author:
   name             : "SmartWave"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  avatar           : /assets/iamges/smartwave-icon.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "SmartWave has been service purpose-driven companies since 2009."
   location         : "United States"
   email            :
   links:
@@ -141,6 +140,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "LinkedIN"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/matt-richardson-technology"
 
 # Site Footer
 footer:
@@ -162,6 +164,9 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
+      # url:
+    - label: "LinkedIN"
+      icon: "fab fa-fw fa-linkedin"
       # url:
   since: "2013"
 
@@ -329,7 +334,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: false # true
       share: true
       related: true
     # _pages
