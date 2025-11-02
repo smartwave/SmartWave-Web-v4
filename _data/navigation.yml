@@ -1,6 +1,6 @@
 main:
   - title: "Your Situation"
-    url: /your-situation/
+    url: /challenges/
     children:
       - title: "Path to Profitability"
         url: /profitability/
