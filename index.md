@@ -5,25 +5,28 @@ excerpt: "When growth slows, systems strain, compliance threatens or profitabili
 header:
   overlay_color: "#111"
   overlay_filter: 0.6
-  overlay_image: /assets/images/hero.jpg
+  overlay_image: /assets/images/hero-grow-wisely.jpg
   actions:
     - label: "Get a 20-min growth diagnosis (free)"
       url: /book/
 feature_row:
-  - image_path: /assets/images/icon-plateau.svg
+  - image_path: /assets/images/icon-tremd-up.svg
     title: "Unlock your growth potential"
+    alt: ""
     excerpt: "We uncover what’s blocking momentum and rebuild disciplined focus."
     url: "/scenarios-proof/#not-growing"
     btn_label: "See how we fix it"
     btn_class: "btn--primary"
-  - image_path: /assets/images/icon-scale.svg
+  - image_path: /assets/images/icon-stack-plus.svg
     title: "Scale without breaking"
+    alt: ""
     excerpt: "Replace heroics with systems that protect what makes you great."
     url: "/scenarios-proof/#scaling"
     btn_label: "Design to scale"
     btn_class: "btn--primary"
-  - image_path: /assets/images/icon-profit.svg
+  - image_path: /assets/images/icon-money-wavy.svg
     title: "Path to Profitability"
+    alt: ""
     excerpt: "Install operating discipline that converts growth into returns."
     url: "/scenarios-proof/#profitability"
     btn_label: "Get to durable profit"
@@ -49,13 +52,13 @@ feature_row3:
 
 {% include feature_row %}
 
-## Choose a Partner that Can Help You Execute
+# Choose a Partner that Can Help You Execute
 {: .text-center}
 
 We don't stop at planning - we implement transformation for technology, operations and compliance that bridge **planning and results** — providing **strategic advice** to chart the path, and **fractional leadership** to execute and deliver transformation that leads to measurable outcomes. We partner with our customers and partners to align **strategy, systems, technology, compliance and leadership** that optimizes performance and scales with purpose to ensure your business' reslience.
 {: .text-center}
 
-## Achieve Measurable Impact
+# Achieve Measurable Impact
 {: .text-center}
 
 We acheive real results from hypergrowth companies who chose SmartWave for technology transformation.
@@ -75,15 +78,13 @@ We acheive real results from hypergrowth companies who chose SmartWave for techn
 - Security & compliance leadership across SOC 2 and ISO 27001 programs with zero-finding outcomes and zero-trust adoption.
 - Deep expertise in operatons, technology and compliance Cloud & data native: AWS, Snowflake, Salesforce (CPQ/Revenue Cloud), NetSuite, Workato, Datadog, Okta, Jira/Confluence.
 
-{% include feature_row id="feature_row3" type="center" %}
+{% include feature_row id="feature_row3" %}
 
 **Industry Experience:** B2B SaaS, Cybersecurty, Legal, Finance, Real Estate, Sustainability, Professional Services
 **Domains:** Business Operations, Technology, Data, AI, Security, Compliance, Finance Operations, Revenue Operations, Customer Operations, Strategic Programs
 **Focus:** Cost Management • Profitability • Ability to Scale • Operational Excellence • Business Transformation • Security • Governance • Strategic Accountability Framework
 
----
-
-## Is Your Tech Spend Aligned with Growth?
+# Is Your Tech Spend Aligned with Growth?
 {: .text-center}
 
 {{ md | markdownify }}
@@ -160,7 +161,7 @@ Every hypergrowth company hits these inflection points. The question isn't if yo
 
 {% capture md %}
 
-## Start Your Transformation Today
+# Start Your Transformation Today
 {: .text-center}
 
 {% endcapture %}
@@ -179,7 +180,18 @@ Every hypergrowth company hits these inflection points. The question isn't if yo
         </div>
       </div>
     </div>
-    
+    <div class="feature__item">
+      <div class="archive__item">
+        <div class="archive__item-body">
+          <h3 class="archive__item-title">📊 Custom Assessment Report</h3>
+          <div class="archive__item-excerpt">
+            After our call, receive a detailed benchmark report showing how your technology capabilities compare to successful hypergrowth companies.
+            <br><br>
+            <a href="/resources/" class="btn btn--inverse btn--x-large">Learn More</a>
+          </div>
+        </div>
+      </div>
+    </div>
     <div class="feature__item">
       <div class="archive__item">
         <div class="archive__item-body">
@@ -195,7 +207,7 @@ Every hypergrowth company hits these inflection points. The question isn't if yo
   </div>
 </div>
 
-<div class="notice--success" markdown="1">
+<!-- <div class="notice--success" markdown="1">
 {% capture md %}
 
 **Limited Availability:** Currently accepting 2 new fractional engagements for Q1 2025.  
@@ -207,7 +219,7 @@ Reserve your consultation now to secure your transformation timeline.
 
 {% endcapture %}
 {{ md | markdownify }}
-</div>
+</div> -->
 
 <script>
 function calculateBenchmark() {
