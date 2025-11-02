@@ -10,7 +10,7 @@ header:
     - label: "Get a 20-min growth diagnosis (free)"
       url: /book/
 feature_row:
-  - image_path: /assets/images/icon-tremd-up.svg
+  - image_path: /assets/images/icon-trend-up.svg
     title: "Unlock your growth potential"
     alt: ""
     excerpt: "We uncover what’s blocking momentum and rebuild disciplined focus."

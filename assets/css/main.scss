@@ -1,0 +1,29 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+
+/* 2) Override variables that the skin sets */
+$link-color: #F89820;
+$body-color: #0f172a;
+$masthead-link-color: #0f172a;          // default nav link color
+$masthead-link-color-hover: #1068A0;    // nav link hover color
+$link-color-hover: #F89820;             // used by the hover/underline transition
+$global-font-family: ui-sans-serif, system-ui;
+
+/* 3) Then load the theme */
+@import "minimal-mistakes"; // main partials
+
+/* 4) Optional: write additional CSS rules after imports */
+.page__content p { line-height: 1.7; }
+
+// Primary blue (brand): #1068A0 — taken from the logo’s wordmark blue.
+// Secondary blue (UI/depth): #0F5E8E — for headings, nav, and card titles.
+// Accent orange (signal/CTA): #F89820 — taken from the “wave” bars.
+// Dark navy (text on color / top bar): #0B1E2A — ensures strong contrast.
+// Light background (section alt / cards): #F6F8FA — subtle separation.
+// Neutral text: #0F1720 (body), #475569 (secondary).
