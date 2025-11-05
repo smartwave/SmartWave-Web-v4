@@ -1,6 +1,6 @@
 ---
-title: "Scaling Without Breaking: Technology Leadership for Hypergrowth"
-permalink: /scaling/
+title: "Get Started Today"
+permalink: /contact/
 layout: single
 classes: wide
 author_profile: false

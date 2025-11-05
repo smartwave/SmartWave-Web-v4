@@ -20,6 +20,12 @@ $global-font-family: ui-sans-serif, system-ui;
 
 /* 4) Optional: write additional CSS rules after imports */
 .page__content p { line-height: 1.7; }
+.navicon { background: #1068A0; }
+.button--primary { 
+    background-color: #F89820;
+    color: #0f172a; }
+a:focus, button:focus { outline: #F89820 auto 5px; }
+.masthead .site-nav a.site-title {visibility: hidden; }
 
 // Primary blue (brand): #1068A0 — taken from the logo’s wordmark blue.
 // Secondary blue (UI/depth): #0F5E8E — for headings, nav, and card titles.
