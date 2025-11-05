@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "SmartWave - we help good companies grow wisely."
-excerpt: "When growth slows, systems strain, compliance threatens or profitability slips, we bring clarity, discipline, and focus to help you execute on solutions."
+excerpt: "When growth slows, systems strain, compliance threatens or profitability slips, we bring clarity, discipline, and focus to help you execute on solutions. Unlock your growth potential."
 header:
   overlay_color: "#111"
   overlay_filter: 0.6
@@ -10,22 +10,19 @@ header:
     - label: "Get a 20-min growth diagnosis (free)"
       url: /book/
 feature_row:
-  - image_path: /assets/images/icon-trend-up.svg
-    title: "Unlock your growth potential"
+  - title: "🛣️ Path to Profitability"
     alt: ""
     excerpt: "We uncover what’s blocking momentum and rebuild disciplined focus."
     url: "/scenarios-proof/#not-growing"
     btn_label: "See how we fix it"
     btn_class: "btn--primary"
-  - image_path: /assets/images/icon-stack-plus.svg
-    title: "Scale without breaking"
+  - title: "⚙️ Scale without breaking"
     alt: ""
     excerpt: "Replace heroics with systems that protect what makes you great."
     url: "/scenarios-proof/#scaling"
     btn_label: "Design to scale"
     btn_class: "btn--primary"
-  - image_path: /assets/images/icon-money-wavy.svg
-    title: "Path to Profitability"
+  - title: "📈 Unlock your growth potential"
     alt: ""
     excerpt: "Install operating discipline that converts growth into returns."
     url: "/scenarios-proof/#profitability"
@@ -58,7 +55,7 @@ feature_row3:
 We don't stop at planning - we implement transformation for technology, operations and compliance that bridge **planning and results** — providing **strategic advice** to chart the path, and **fractional leadership** to execute and deliver transformation that leads to measurable outcomes. We partner with our customers and partners to align **strategy, systems, technology, compliance and leadership** that optimizes performance and scales with purpose to ensure your business' reslience.
 {: .text-center}
 
-# Achieve Measurable Impact
+# Get Measurabl Results Fast
 {: .text-center}
 
 We acheive real results from hypergrowth companies who chose SmartWave for technology transformation.

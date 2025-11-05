@@ -17,8 +17,8 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "defa
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : ""
-title_separator          : " - "
+title                    : "SmartWave"
+title_separator          : " | "
 subtitle                 : ""
 name                     : "SmartWave"
 description              : "Fractional CIO/CTO/CISO for growing, scaling or optimizing companies."

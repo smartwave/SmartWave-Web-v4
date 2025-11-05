@@ -1,28 +1,26 @@
 main:
-  - title: "Your Situation"
+  - title: "Your Needs"
     url: /challenges/
     children:
-      - title: "Path to Profitability"
+      - title: "Reduce Costs"
         url: /profitability/
-      - title: "Scaling Challenges"
-        url: /scaling/
+      - title: "Optimize & Automate"
+        url: /efficiency/
       - title: "Compliance & Security"
         url: /compliance/
   - title: "Our Solutions"
     url: /solutions/
     children:
-      - title: "Fractional CTO"
-        url: /fractional-cto/
-      - title: "Fractional CIO"
-        url: /fractional-cio/
-      - title: "Fractional CISO"
-        url: /fractional-ciso/
-  - title: "Results"
-    url: /results/
+      - title: "Fractional CIO/CTO/CISO"
+        url: /fractional/
+      - title: "Advisory Services"
+        url: /advisory/
+  - title: "Resources"
+    url: /resources/
     children:
       - title: "Who We Are"
         url: /who-we-are/
-      - title: "Resources"
-        url: /resources/
+      - title: "Results"
+        url: /results/
   - title: "Get Started"
     url: /contact/
