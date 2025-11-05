@@ -1,6 +1,6 @@
 ---
 title: "Path to Profitability: Reduce Burn While Accelerating Growth"
-permalink: /profitability/
+permalink: /challenges/profitability/
 layout: single
 classes: wide
 author_profile: false

@@ -2,6 +2,7 @@
 layout: single
 title: "About & FAQ"
 excerpt: "Challenging with care. Building systems that last."
+permalink: /resources/about-us/
 toc: true
 ---
 

@@ -1,26 +1,47 @@
 ---
-title: "Scaling Without Breaking: Technology Leadership for Hypergrowth"
-permalink: /scaling/
 layout: single
-classes: wide
-author_profile: false
+title: "Scenarios & Proof"
+excerpt: "Three inflection points. One operating approach."
+permalink: /challenges/
 toc: true
-toc_label: "Scaling Roadmap"
-toc_icon: "rocket"
-toc_sticky: true
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/scaling-hero.jpg
-  actions:
-    - label: "Get Your Scaling Assessment"
-      url: "/contact/"
-excerpt: "Growing 200-500% annually? Every growth milestone brings a new breaking point. We've guided 45+ companies through the exact challenges you're facing at 50, 125, 300, and 500 employees."
-sidebar:
-  - title: "Critical Breaking Points"
-    text: "• 50 → 125 employees<br>• $10M → $20M ARR<br>• 300+ employees<br>• New market entry"
-  - title: "Common Symptoms"
-    text: "• Systems crashing under load<br>• Customer complaints rising<br>• Teams can't collaborate<br>• Manual processes everywhere"
 ---
 
-## The Hypergrowth Paradox
+We focus on three universal scenarios. Each pairs **Problem → Impact → Fix** with a fast path to action.
+
+---
+
+## <a id="not-growing"></a>1) Not growing but want to
+**Problem:** Momentum plateau; unclear priorities.  
+**Impact:** Missed targets, stall in pipeline/NPS/NRR.  
+**Fix:** 6-week focus reset—single plan, OKRs, cadence, dashboard.
+
+**Offer:** [Free growth diagnosis →](/book/)
+
+---
+
+## <a id="scaling"></a>2) Growing and need to scale
+**Problem:** Success is stressing systems and teams.  
+**Impact:** Heroics, thrash, inconsistent quality.  
+**Fix:** Operating model design—org/roles, portfolio governance, delivery rhythm, zero-trust foundation.
+
+**Offer:** [Run the readiness check →](/resources/#readiness-check)
+
+---
+
+## <a id="profitability"></a>3) Revenue but not profitable
+**Problem:** Costs aren’t mapped to value; weak visibility.  
+**Impact:** Flat margin, anxious boardroom.  
+**Fix:** KPI reset, cost-to-value mapping, finance–ops cadence, vendor optimization.
+
+**Offer:** [Profitability review (free) →](/book/)
+
+---
+
+# Proof (selected)
+
+{% assign cases = site.case-studies | slice: 0,3 %}
+{% for cs in cases %}
+- **[{{ cs.title }}]({{ cs.url }})** — {{ cs.excerpt }}
+{% endfor %}
+
+_Ask for anonymized proof in the session—we'll share metrics relevant to your context._

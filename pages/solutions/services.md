@@ -2,6 +2,7 @@
 layout: single
 title: "Services"
 excerpt: "Planning that clarifies. Results that compound."
+permalink: /solutions/fractional/
 toc: true
 ---
 
