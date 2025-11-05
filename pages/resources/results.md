@@ -1,6 +1,6 @@
 ---
 title: "Scaling Without Breaking: Technology Leadership for Hypergrowth"
-permalink: /solutions/
+permalink: /resources/results/
 layout: single
 classes: wide
 author_profile: false

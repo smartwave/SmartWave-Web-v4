@@ -1,6 +1,6 @@
 ---
 title: "Security & Compliance: Turn Audit Requirements Into Competitive Advantage"
-permalink: /compliance/
+permalink: /challenges/compliance/
 layout: single
 classes: wide
 author_profile: false

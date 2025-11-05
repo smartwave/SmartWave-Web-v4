@@ -2,6 +2,7 @@
 layout: single
 title: "Resources (Free)"
 excerpt: "Product-led starters to see value before we meet."
+permalink: /resources/
 toc: true
 ---
 
