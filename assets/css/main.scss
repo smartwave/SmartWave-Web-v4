@@ -21,9 +21,10 @@ $global-font-family: ui-sans-serif, system-ui;
 /* 4) Optional: write additional CSS rules after imports */
 .masthead { top:0; }
 .masthead__inner-wrap {}
+a.header-link #Permalink { display: none; }
 .page__content p { line-height: 1.7; }
 .navicon { background: #1068A0; }
-.btn--primary { 
+.btn--primary, .btn--primary:visited { 
     background-color: #1068a0; }
 .btn--primary:hover { 
     background-color: #F89820;
