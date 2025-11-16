@@ -19,8 +19,14 @@ main:
     url: /resources/
     children:
       - title: "Who We Are"
-        url: /who-we-are/
+        url: /about-us/
       - title: "Results"
         url: /results/
+      - title: "Our Motivation"
+        url: /values/
+      - title: "Free Tools"
+        url: /tools/
+      - title: "Articles & Posts"
+        url: /articles/
   - title: "Get Started"
     url: /contact/

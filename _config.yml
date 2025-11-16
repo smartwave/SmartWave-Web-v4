@@ -17,21 +17,21 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "defa
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "SmartWave"
+title                    : "SmartWavetitle"
 title_separator          : " | "
-subtitle                 : ""
-name                     : "SmartWave"
-description              : "Fractional CIO/CTO/CISO for growing, scaling or optimizing companies."
+subtitle                 : "We help companies grow __wisely__."
+name                     : "SmartWavename"
+description              : "SmartWave offers fractional technology, security and operational leadership for value-driven companies that are growing, scaling or optimizing companies. We have experience in the folowing industries: B2B SaaS, Cybersecurty, Legal, Finance, Real Estate, Sustainability, Professional Services. We have expertise in the following domains: Business Operations, Technology, Data, AI, Security, Compliance, Finance Operations, Revenue Operations, Customer Operations, Strategic Programs. We focus on: Cost Management • Profitability • Ability to Scale • Operational Excellence • Business Transformation • Security • Governance • Strategic Accountability Framework"
 url                      : "https://smartwave.biz"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/smartwave-logo.png"
-masthead_title           : ""
-breadcrumbs              : true
+masthead_title           : "SmartWavemasthead"
+breadcrumbs              : false
 words_per_minute         : 200
 enable_copy_code_button  : false
-copyright                : "SmartWave"
+copyright                : "SmartWave Consulting, LLC"
 copyright_url            : # "copyright" URL, defaults to site.url
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
