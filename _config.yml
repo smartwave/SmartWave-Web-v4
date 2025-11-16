@@ -17,17 +17,17 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "defa
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "SmartWavetitle"
+title                    : "SmartWave"
 title_separator          : " | "
-subtitle                 : "We help companies grow __wisely__."
-name                     : "SmartWavename"
+subtitle                 : "We help good companies grow __wisely__."
+name                     : "SmartWave Consulting & Technical Services"
 description              : "SmartWave offers fractional technology, security and operational leadership for value-driven companies that are growing, scaling or optimizing companies. We have experience in the folowing industries: B2B SaaS, Cybersecurty, Legal, Finance, Real Estate, Sustainability, Professional Services. We have expertise in the following domains: Business Operations, Technology, Data, AI, Security, Compliance, Finance Operations, Revenue Operations, Customer Operations, Strategic Programs. We focus on: Cost Management • Profitability • Ability to Scale • Operational Excellence • Business Transformation • Security • Governance • Strategic Accountability Framework"
 url                      : "https://smartwave.biz"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/smartwave-logo.png"
-masthead_title           : "SmartWavemasthead"
+masthead_title           : "SmartWave - Technology leadership for your business."
 breadcrumbs              : false
 words_per_minute         : 200
 enable_copy_code_button  : false
@@ -68,11 +68,11 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : true # true, false (default)
-search                   : true # true, false (default)
+search                   : false # true, false (default)
 search_full_content      : true # true, false (default)
-search_provider          : # lunr (default), algolia, google
+search_provider          : lunr # lunr (default), algolia, google
 lunr:
-  search_within_pages    : # true, false (default)
+  search_within_pages    : false # true, false (default)
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
@@ -112,7 +112,7 @@ analytics:
   provider               : "google-gtag"
   google:
     tracking_id          : "G-LSWEFQ9GM6"
-    anonymize_ip         : # true, false (default)
+    anonymize_ip         : false # true, false (default)
 
 # Site Author
 author:

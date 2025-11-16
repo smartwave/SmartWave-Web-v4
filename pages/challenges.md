@@ -1,9 +1,17 @@
 ---
 layout: single
+classes: wide
 title: "Scenarios & Proof"
 excerpt: "Three inflection points. One operating approach."
 permalink: /challenges/
-toc: true
+toc: false
+header:
+  overlay_image: /assets/images/unsplash-image-1.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  actions:
+    - label: "More Info"
+      url: "https://unsplash.com"
+
 ---
 
 We focus on three universal scenarios. Each pairs **Problem → Impact → Fix** with a fast path to action.

@@ -19,13 +19,26 @@ $global-font-family: ui-sans-serif, system-ui;
 @import "minimal-mistakes"; // main partials
 
 /* 4) Optional: write additional CSS rules after imports */
+.masthead { top:0; }
+.masthead__inner-wrap {}
 .page__content p { line-height: 1.7; }
 .navicon { background: #1068A0; }
-.button--primary { 
+.btn--primary { 
+    background-color: #1068a0; }
+.btn--primary:hover { 
+    background-color: #F89820;
+    color: #0f172a; }
+.btn--secondary { 
+    background-color: #1068a0; }
+.btn--secondary:hover { 
     background-color: #F89820;
     color: #0f172a; }
 a:focus, button:focus { outline: #F89820 auto 5px; }
 .masthead .greedy-nav a.site-title {visibility: hidden; }
+.greedy-nav .visible-links a:before { background: #f89820; }
+.navicon::before, .navicon::after { background: #f89820; }
+.greed-nav__toggle:hover .navicon, .greed-nav__toggle:hover .navicon:before, .greed-nav__toggle:hover .navicon:after { background: #f89820; }
+i.fas.fa-search { color: #1068a0; }
 .benchmark-section {
   background: #f8f9fa;
   padding: 3em 2em;
