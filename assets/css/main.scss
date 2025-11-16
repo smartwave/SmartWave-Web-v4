@@ -26,6 +26,72 @@ $global-font-family: ui-sans-serif, system-ui;
     color: #0f172a; }
 a:focus, button:focus { outline: #F89820 auto 5px; }
 .masthead .greedy-nav a.site-title {visibility: hidden; }
+.benchmark-section {
+  background: #f8f9fa;
+  padding: 3em 2em;
+  border-radius: 8px;
+  margin: 2em 0;
+}
+
+.benchmark-form {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.form-group {
+  margin-bottom: 1.5em;
+}
+
+.form-group label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 0.5em;
+}
+
+.form-control {
+  width: 100%;
+  padding: 0.5em;
+  font-size: 1em;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.benchmark-results {
+  margin-top: 2em;
+  padding: 2em;
+  background: white;
+  border-radius: 8px;
+  border: 2px solid #e0e0e0;
+}
+
+.benchmark-metric {
+  font-size: 1.1em;
+  line-height: 1.8;
+  margin-bottom: 1em;
+}
+
+.benchmark-cta {
+  text-align: center;
+  margin-top: 2em;
+  padding-top: 2em;
+  border-top: 1px solid #e0e0e0;
+}
+
+.hidden {
+  display: none;
+}
+
+.cta-section {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  padding: 3em 1em;
+  border-radius: 8px;
+  margin: 3em 0;
+  color: white;
+}
+
+.cta-section .archive__item-title {
+  color: white;
+}
 
 // Primary blue (brand): #1068A0 — taken from the logo’s wordmark blue.
 // Secondary blue (UI/depth): #0F5E8E — for headings, nav, and card titles.
