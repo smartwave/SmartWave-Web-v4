@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "SmartWave - we help good companies grow wisely."
+title: "Welcome. We help good companies grow <em>wisely</em>."
 excerpt: "When growth slows, profitability slips, systems and processes strain or risk threatens, SmartWave brings clarity, discipline and focus to **help you execute** on solutions that transform your business. Unlock your potential __today__."
 header:
   overlay_color: "#111"
@@ -12,36 +12,36 @@ header:
 feature_row:
   - title: "🛣️ Optimize Tech & People Investment"
     alt: "alternative"
-    excerpt: "talk abotu what we fix."
+    excerpt: "Ensure your investments in tech, people and operations are optimized.<br />expertise, operations, technology, compliance, cloud, data"
     url: "/scenarios-proof/#profitability"
     btn_label: "More or CTA"
     btn_class: "btn--primary"
-  - title: "⚙️ Move Faster - Operations, AI and Automation"
+  - title: "⚙️ AI, Automation and Continuous Improvement"
     alt: "alternative"
-    excerpt: "Replace heroics with operating disciplines that protect what makes you great."
+    excerpt: "Replace heroics with operating disciplines that protect what makes you great.<br />LLMs, MCPs, automation tools, business process eval and improvement, performance metrics, dashboards."
     url: "/scenarios-proof/#scaling"
     btn_label: "More or CTA"
     btn_class: "btn--primary"
   - title: "📈 Security and Compliance that Supports Growth"
     alt: "alternative"
-    excerpt: "Convert evolving risks into opportunities and growth."
+    excerpt: "Convert evolving risks into opportunities and growth.<br />SOC 2. ISO 27001. Data Quality ASsurance. Risk Management."
     url: "/scenarios-proof/#not-growing"
     btn_label: "More or CTA"
     btn_class: "btn--primary"
 feature_row2_results:
-  - title: "Achieve Profitability - __SaaS Company at $30M ARR__"
+  - title: "Achieved Profitability at <em>$30M ARR SaaS Company</em>"
     alt: "alternative"
-    excerpt: "**$2.3M Annual Cost Reduction**<br>Consolidated 47 tools, automated onboarding, optimized cloud spend . Extended runway by 14 months."
+    excerpt: "**$2.3M Annual Cost Reduction**<br />Consolidated 47 tools, automated onboarding, optimized cloud spend. Extended runway by 14 months."
     url: "/scenarios-proof/#not-growing"
     btn_label: "Get on the Path"
     btn_class: "btn--secondary"
-  - title: "AI & Operational Effectiveness - __Healthcare Tech at $18M ARR__ "
+  - title: "Implemented Automation at <em>$18M ARR Legal Service Company</em>."
     alt: "alternative"
-    excerpt: "**73% Process Time Reduction**<br>Implemented RPA for claims, built knowledge LLMs. Avoided 40 hires, saved $6M annually."
+    excerpt: "**73% Process Time Reduction**<br>Implemented RPA for claims and backoffice process, built data warehouse. Avoided 40 hires, saved $6M annually."
     url: "/scenarios-proof/#not-growing"
     btn_label: "Unlock growth potential"
     btn_class: "btn--secondary"
-  - title: "Optimize for Scale - __Fintech at $45M ARR__"
+  - title: "Optimize for Scale - <em>Fintech at $45M ARR</em>"
     alt: "alternative"
     excerpt: "**62% Infrastructure Savings**<br>Re-architected for scale, optimized data pipelines. Reduced costs from 15% to 6% of ARR."
     excerpt: "Convert evolving risks into opportunities and growth."
@@ -49,27 +49,27 @@ feature_row2_results:
     btn_label: "Scale without Breaking"
     btn_class: "btn--secondary"
 feature_row3_differentiators:
-  - title: "We are practitioners with technical __and__ business expertise."
+  - title: "We are practitioners with technical <em>and</em> business expertise."
     alt: "alternative"
-    excerpt: "We've personally led technology organizations through hypergrowth, acquisitions, and transformations. We understand finances, revenue and marketing operations.<br />* many techs"
+    excerpt: "We've personally led technology organizations through hypergrowth, acquisitions, and transformations. We understand finances, revenue and marketing operations.<br /><ul><li>many techs</li></ul>"
     icon: "fas fa-hammer"
     url: "/resources/about-us/#practitioners"
     btn_label: "Meet our experts"
     btn_class: "btn--secondary"
-  - title: "We combine **speed** __with__ **transformation**"
+  - title: "We combine <strong>speed</strong> <em>with</em> <strong>transformation</strong>"
     alt: "alternative"
-    excerpt: "Every recommendation tied to business metrics. We measure success in burn reduction, efficiency gains, and revenue enablement. Align your goals to your operations and transformation.<br />* RevOps, FinOps, OpsOps"
+    excerpt: "Every recommendation tied to business metrics. We measure success in burn reduction, efficiency gains, and revenue enablement. Align your goals to your operations and transformation.<br /><ul><li>RevOps</li><li>FinOps</li><li>OpsOps</li></ul>"
     icon: "fas fa-chart-line"
     url: "/resources/results/"
     btn_label: "More or CTA"
-    btn_class: "btn--primary"
-  - title: "We focus on delivering value __and__ aligning with values"
+    btn_class: "btn--secondary"
+  - title: "We focus on delivering value <em>and</em> aligning with values"
     alt: "alternative"
-    excerpt: "From 2 days per month oversight to full-time interim coverage. Scale our involvement based on your needs and budget. <br />* SOC 2 Certification<br />* ISO 27001 Certificaiton *"
+    excerpt: "From 2 days per month oversight to full-time interim coverage. Scale our involvement based on your needs and budget. <br /><ul><li>SOC 2 Certification</li><li>ISO 27001 Certificaiton</li></ul>"
     icon: "fas fa-handshake"
     url: "/resources/values/#value-driven-business"
     btn_label: "More or CTA"
-    btn_class: "btn--primary"
+    btn_class: "btn--secondary"
 ---
 
 {% include feature_row %}
@@ -78,26 +78,6 @@ feature_row3_differentiators:
 {: .text-center}
 
 Plans help, but excution delivers results. SmartWave bridges **planning and results** — providing **strategic advice** to chart the path, and **fractional leadership** to execute and deliver transformation to your technology, operations and compliance that leads to measurable results. We partner with our customers to **drive outcomes, fast**, align **strategy, systems, technology, compliance and leadership** and **optimize performance that scales** with purpose to ensure your business reslience.
-{: .text-center}
-
-<div class="notice--success" markdown="1">
-**The math is simple:** Every month of inefficient operations costs you 3-6 months on your path to profitability. The average SmartWave engagement pays for itself in the first 90 days and delivers 2-3x ROI within 18 months.
-</div>
-
-# Get Measurable Results Fast
-{: .text-center}
-
-We acheive real results for value-driven companies who chose SmartWave for technology transformation.
-{: .text-center}
-
-{% include feature_row id="feature_row2_results" %}
-
-# The SmartWave Difference
-{: .text-center}
-
-SmartWave is a different kind of parter. We love helping value-driven copmanies grow and reach profitability. We believe that business is a powerful engine that can produce amazing products and great experiences for customers and employees alike. Our mission is to combine proven business practices with modern technology and a human-centered approach.
-
-{% include feature_row id="feature_row3_differentiators" %}
 
 <div class="notice--warning" markdown="1">
 {% capture md %}
@@ -119,12 +99,35 @@ Every hypergrowth company hits these inflection points. The question isn't if yo
 </div>
 
 {% capture md %}
+# Get Measurable Results Fast
+{: .text-center}
+
+We acheive real results for value-driven companies who chose SmartWave for technology transformation.
+{: .text-center}
+
+<div class="notice--success" markdown="1">
+**The math is simple:** Every month of inefficient operations costs you 3-6 months on your path to profitability. The average SmartWave engagement pays for itself in the first 90 days and delivers 2-3x ROI within 18 months.
+</div>
+
+{% include feature_row id="feature_row2_results" %}
+
+{% endcapture %}
+{{ md | markdownify }}
+
+{% capture md %}
+# The SmartWave Difference
+{: .text-center}
+
+SmartWave is a different kind of parter. We love helping value-driven companies grow and reach profitability. Our founders believe that business is a powerful engine that can produce amazing products and great experiences for customers __and__ inspire employees. SmartWave's mission is to combine proven business practices with modern technology and a human-centered approach to deliver fast, lasting transformation for great companies.
+
+{% include feature_row id="feature_row3_differentiators" %}
+
+{% endcapture %}
+{{ md | markdownify }}
 
 # Start Your Transformation Today
 {: .text-center}
 
-{% endcapture %}
-{{ md | markdownify }}
 <div class="cta-section">
   <div class="feature__wrapper">
     <div class="feature__item">
