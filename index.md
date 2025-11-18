@@ -11,22 +11,22 @@ header:
       url: /book/
 feature_row:
   - title: "🛣️ Optimize Tech & People Investment"
-    alt: "alternative"
-    excerpt: "Ensure your investments in tech, people and operations are optimized.<br />expertise, operations, technology, compliance, cloud, data"
+    alt: "Reduce your technology & people cost"
+    excerpt: "Do you need a new technology strategy? Overlapping capabilities, insufficient management, poor implementations, tool fatigue and low adoption are indicators that _you do_. When technology is aligned to your business, it helps you grow. When it isn't, it is a distraction. Our experienced team helps you evaluate technology spend and associated people costs, outlining a tailored strategy that starts to _realize savings in our first 90 days_."
     url: "/scenarios-proof/#profitability"
-    btn_label: "More or CTA"
+    btn_label: "Start Optimizing Today"
     btn_class: "btn--primary"
   - title: "⚙️ AI, Automation and Continuous Improvement"
-    alt: "alternative"
-    excerpt: "Replace heroics with operating disciplines that protect what makes you great.<br />LLMs, MCPs, automation tools, business process eval and improvement, performance metrics, dashboards."
+    alt: "Get ROI on AI, streamline and automate your operations"
+    excerpt: "Are you relying on heroic efforts to power your growth? Missed goals, poorly defined/tracked metrics, burnout, no low/no return on AI investments, inconsistency and reduced employee retention are signs you are not prepared to successfully scale. Innovation and heroic efforts are how many great businesses are built, but heroics don't scale. SmartWave helps you evaluate and execute changes to your operations using AI technology, processes improvement and automation that drive consistency and performance."
     url: "/scenarios-proof/#scaling"
-    btn_label: "More or CTA"
+    btn_label: "Get Ready for Scale"
     btn_class: "btn--primary"
   - title: "📈 Security and Compliance that Supports Growth"
-    alt: "alternative"
-    excerpt: "Convert evolving risks into opportunities and growth.<br />SOC 2. ISO 27001. Data Quality ASsurance. Risk Management."
+    alt: "Convert evolving risks into opportunities and growth, e.g. SOC 2, ISO 27001, Data Quality Assurance, Risk Management."
+    excerpt: "Are security, compliance and risk management reducing or contributing to your performance? Risk management strategies work when they align to market requirements, laws _and_ the reality of your business. SmartWave can help align and implement security, compliance and risk management practices that support growth, protect revenue and improve the resiliency of your business."
     url: "/scenarios-proof/#not-growing"
-    btn_label: "More or CTA"
+    btn_label: "Drive Growth with Resilience"
     btn_class: "btn--primary"
 feature_row2_results:
   - title: "Achieved Profitability at <em>$30M ARR SaaS Company</em>"
@@ -51,21 +51,21 @@ feature_row2_results:
 feature_row3_differentiators:
   - title: "We are practitioners with technical <em>and</em> business expertise."
     alt: "alternative"
-    excerpt: "We've personally led technology organizations through hypergrowth, acquisitions, and transformations. We understand finances, revenue and marketing operations.<br /><ul><li>many techs</li></ul>"
+    excerpt: "We've personally led technology organizations through hypergrowth, acquisitions, and transformations. We understand finances, revenue and marketing operations.<br />- many techs"
     icon: "fas fa-hammer"
     url: "/resources/about-us/#practitioners"
     btn_label: "Meet our experts"
     btn_class: "btn--secondary"
   - title: "We combine <strong>speed</strong> <em>with</em> <strong>transformation</strong>"
     alt: "alternative"
-    excerpt: "Every recommendation tied to business metrics. We measure success in burn reduction, efficiency gains, and revenue enablement. Align your goals to your operations and transformation.<br /><ul><li>RevOps</li><li>FinOps</li><li>OpsOps</li></ul>"
+    excerpt: "Every recommendation tied to business metrics. We measure success in burn reduction, efficiency gains, and revenue enablement. Align your goals to your operations and transformation.<br />- RevOps<br />- FinOps<br />- OpsOps"
     icon: "fas fa-chart-line"
     url: "/resources/results/"
     btn_label: "More or CTA"
     btn_class: "btn--secondary"
   - title: "We focus on delivering value <em>and</em> aligning with values"
     alt: "alternative"
-    excerpt: "From 2 days per month oversight to full-time interim coverage. Scale our involvement based on your needs and budget. <br /><ul><li>SOC 2 Certification</li><li>ISO 27001 Certificaiton</li></ul>"
+    excerpt: "From 2 days per month oversight to full-time interim coverage. Scale our involvement based on your needs and budget. <br />- SOC 2 Certification<br />- ISO 27001 Certificaiton"
     icon: "fas fa-handshake"
     url: "/resources/values/#value-driven-business"
     btn_label: "More or CTA"
@@ -149,7 +149,7 @@ SmartWave is a different kind of parter. We love helping value-driven companies 
           <div class="archive__item-excerpt">
             After our call, receive a detailed benchmark report showing how your technology capabilities compare to successful hypergrowth companies.
             <br><br>
-            <a href="/resources/" class="btn btn--inverse btn--x-large">Learn More</a>
+            <a href="/resources/" class="btn btn--secondary btn--x-large">Learn More</a>
           </div>
         </div>
       </div>
@@ -161,7 +161,7 @@ SmartWave is a different kind of parter. We love helping value-driven companies 
           <div class="archive__item-excerpt">
             After our call, receive a detailed benchmark report showing how your technology capabilities compare to successful hypergrowth companies.
             <br><br>
-            <a href="/resources/" class="btn btn--inverse btn--x-large">Learn More</a>
+            <a href="/resources/" class="btn btn--secondary btn--x-large">Learn More</a>
           </div>
         </div>
       </div>
