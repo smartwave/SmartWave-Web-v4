@@ -51,7 +51,7 @@ feature_row2_results:
 feature_row3_differentiators:
   - title: "We are practitioners with technical <em>and</em> business expertise."
     alt: "Experts with hands-on technical experience"
-    excerpt: "We've personally led technology organizations through hypergrowth, acquisitions, and transformations. SmartWave understand business, finances, revenue and marketing operations, and the proven practices that lead to their success.
+    excerpt: "We've personally led technology organizations through hypergrowth, acquisitions, and transformations. SmartWave understand business, finances, revenue and marketing operations, and the proven practices that lead to their success."
     icon: "fas fa-hammer"
     url: "/resources/about-us/#practitioners"
     btn_label: "Meet our experts"
