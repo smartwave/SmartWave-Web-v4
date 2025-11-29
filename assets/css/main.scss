@@ -23,7 +23,7 @@ $global-font-family: ui-sans-serif, system-ui;
 .masthead__inner-wrap a.site-title { width: 0px; }
 a.header-link #Permalink { display: none; }
 .masthead .greedy-nav a.site-title { display: none; width: 2em; height: 0px; }
-a.header-link #Permalink { display:none; }
+a.header-link[title="Permalink"] { display:none; }
 .page__content p { line-height: 1.7; }
 .navicon { background: #1068A0; }
 .btn--primary, .btn--primary:visited { 

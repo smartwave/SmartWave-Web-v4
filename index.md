@@ -24,7 +24,7 @@ feature_row:
     btn_class: "btn--primary"
   - title: "📈 Security and Compliance that Supports Growth"
     alt: "Convert evolving risks into opportunities and growth, e.g. SOC 2, ISO 27001, Data Quality Assurance, Risk Management."
-    excerpt: "SmartWave aligns and implement security, compliance and risk management practices that support growth, protect revenue and improve the resiliency of your business.  <br />- SOC 2 Certification<br />- ISO 27001 Certificaiton Human-Centered Approach"
+    excerpt: "SmartWave aligns and implement security, compliance and risk management practices that support growth, protect revenue and improve the resiliency of your business.<br /><ul><li>SOC 2 Certification</li><li>ISO 27001 Certificaiton</li></ul>"
     url: "/scenarios-proof/#not-growing"
     btn_label: "Drive Growth with Resilience"
     btn_class: "btn--primary"
@@ -44,7 +44,6 @@ feature_row2_results:
   - title: "Optimize for Scale - <em>Cybersecurity SaaS at $45M ARR</em>"
     alt: "Hypergrowth cyebrsecurity SaaS business on the way to IPO"
     excerpt: "**62% Infrastructure Savings**<br>Re-architected for scale, optimized data pipelines. Reduced costs from 15% to 6% of ARR."
-    excerpt: "Convert evolving risks into opportunities and growth."
     url: "/scenarios-proof/#not-growing"
     btn_label: "Scale without Breaking"
     btn_class: "btn--secondary"
@@ -54,21 +53,21 @@ feature_row3_differentiators:
     excerpt: "We've personally led technology organizations through hypergrowth, acquisitions, and transformations. SmartWave understand business, finances, revenue and marketing operations, and the proven practices that lead to their success."
     icon: "fas fa-hammer"
     url: "/resources/about-us/#practitioners"
-    btn_label: "Meet our experts"
+    btn_label: "Meet our Experts"
     btn_class: "btn--secondary"
   - title: "We combine <strong>speed</strong> with <strong><em>lasting</em> transformation</strong>"
     alt: "We focus on results that last"
     excerpt: "We know that transformation isn't just about good metrics; true transformation requires <em>changing behavior</em>. SmartWave aligns your goals to proven operational and performance management practices, measuring the success of your customer, financial, operational and people efforts."
     icon: "fas fa-chart-line"
     url: "/resources/results/"
-    btn_label: "More or CTA"
+    btn_label: "View Our Results"
     btn_class: "btn--secondary"
   - title: "We focus on <strong>delivering value</strong> that <em>aligns <strong>with values</strong></em>"
     alt: "Supporting the success of value-driven organizations"
     excerpt: "We understand that your company values and stakeholders are key to your success. Smartwave takes a human-centered approach, leveraging the knowledge of your customers, employees and partners to drive resilient process and technology transformation."
     icon: "fas fa-handshake"
     url: "/resources/values/#value-driven-business"
-    btn_label: "More or CTA"
+    btn_label: "Learn More"
     btn_class: "btn--secondary"
 ---
 
@@ -156,7 +155,7 @@ Whether you need a few hours per month or a full-time interim engagement, SmartW
           <div class="archive__item-excerpt">
             Use our self-service tools to benchmark how your technology capabilities compare to successful, similar companies.
             <br><br>
-            <a href="/resources/" class="btn btn--secondary btn--x-large">Learn More</a>
+            <a href="/resources/" class="btn btn--secondary btn--x-large">Explore Free Tools</a>
           </div>
         </div>
       </div>
@@ -168,7 +167,7 @@ Whether you need a few hours per month or a full-time interim engagement, SmartW
           <div class="archive__item-excerpt">
             Request a detailed, tailored assessment of your people, processes and technology. Reports include recommendations on actionable steps.
             <br><br>
-            <a href="/resources/" class="btn btn--secondary btn--x-large">Learn More</a>
+            <a href="/resources/" class="btn btn--secondary btn--x-large">Contact Us</a>
           </div>
         </div>
       </div>
