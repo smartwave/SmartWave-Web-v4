@@ -22,7 +22,8 @@ $global-font-family: ui-sans-serif, system-ui;
 .masthead { top:0; }
 .masthead__inner-wrap {}
 a.header-link #Permalink { display: none; }
-.masthead .greedy-nav a.site-title { display: none; }
+.masthead .greedy-nav a.site-title { display: none; width: 2em; height: 0px; }
+a.header-link #Permalink { display:none; }
 .page__content p { line-height: 1.7; }
 .navicon { background: #1068A0; }
 .btn--primary, .btn--primary:visited { 
@@ -45,6 +46,10 @@ a:focus, button:focus { outline: #F89820 auto 5px; }
 .navicon::before, .navicon::after { background: #f89820; }
 .greed-nav__toggle:hover .navicon, .greed-nav__toggle:hover .navicon:before, .greed-nav__toggle:hover .navicon:after { background: #f89820; }
 i.fas.fa-search { color: #1068a0; }
+div..notice--warning { margin: 2em auto !important; width: 90%; }
+.notice--warning { font-size:1em; }
+.notice--warning h2 { margin-top:0em; }
+.notice--warning h3 { font-size:0.9em; }
 .benchmark-section {
   background: #f8f9fa;
   padding: 3em 2em;
